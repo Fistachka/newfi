@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>newfi</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
-    <ru>341623f8780f013e1c739a92d81c7646a9532790444e53348fdafc694c5fbb3e</ru>
+    <ru>424d8875a779b00a66bba26c333bd8c3c895fd0854928c7d8aaeb514c36ea672</ru>
     <en>5bd88677920c30e76f2c5c2cc76867304e7ce929e90b6ad6b51e60ac49bd7fe9</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
