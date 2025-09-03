@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>newfi</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>86f251f9608670a1d98bf0ea81defd847731854a7e38964c577087a7aa131bea</ru>
@@ -24,10 +24,6 @@
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -44,11 +40,6 @@
       <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -66,10 +57,6 @@
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -86,11 +73,6 @@
       <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -108,10 +90,6 @@
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -128,11 +106,6 @@
       <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -150,10 +123,6 @@
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -170,11 +139,6 @@
       <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
 </level>
