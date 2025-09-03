@@ -5,3 +5,5 @@
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 # 🆕 Create new lesson.<br><br>
 
+![nature-3070475_1280](https://github.com/user-attachments/assets/ec08935c-138b-4043-bb92-6ee91149e255)
+![rings-66620_1280](https://github.com/user-attachments/assets/637539bb-d2cd-4e65-b5bb-42da360bff67)
